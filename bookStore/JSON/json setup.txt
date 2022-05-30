@@ -1,0 +1,4 @@
+1- create file outside react file 
+2- in tearmnal write "npm init"
+3- click enter 10 time
+4- in tearmnal write "npm i json-server"
